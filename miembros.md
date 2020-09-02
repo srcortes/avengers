@@ -15,5 +15,5 @@
 * Thor
 * Vision
 * Wasp
-* Antman
+* Antman.
 * Capitán America.
